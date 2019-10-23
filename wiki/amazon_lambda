@@ -1,0 +1,5 @@
+# Amazon Lambda
+
+Code execution service hosted on AWS Platform, in which developer not required to manage Operating System, Network, et cetra.
+Only code execution times are corelated to the amount of money paid.
+
